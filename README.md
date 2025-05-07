@@ -16,7 +16,7 @@ Related Links:
 
 ---
 
-## 💻 How It Works
+## How It Works
 
 The program does the following:
 
